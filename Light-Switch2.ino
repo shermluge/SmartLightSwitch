@@ -15,6 +15,8 @@
  * uses LDR for obvious light detection, microwave to see movement in room
  * and behind walls and furnature, PIR for regular motion detection, audio in case
  * people motionless but still in room talking.
+ *
+ * Note: LDR is for very bright light as to not shut itself off.. If more then enough light is available, lamp won't turn on.
  * 
  */ 
 //#define DEBUG
