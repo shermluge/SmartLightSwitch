@@ -7,6 +7,8 @@
  *                           ---
  *                           
  *  Smart switch
+ * Lic. GPLv3
+ *
  * Sherman Stebbins 
  * 10/18/17
  * 
